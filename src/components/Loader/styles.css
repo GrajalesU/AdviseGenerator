@@ -1,8 +1,8 @@
-.loaderContainer{
- display: flex;
- align-items: center;
- justify-content: center;
- height: 12.5rem;
+.loaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 12.5rem;
 }
 
 .lds-ellipsis {
