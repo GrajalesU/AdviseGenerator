@@ -2,6 +2,7 @@
   background-color: var(--dark-grayish-blue);
   border-radius: 0.9375rem;
   max-width: 23.4375rem;
+  min-width: 21.875rem;
 }
 
 .adviceTitle {
@@ -58,6 +59,7 @@
 @media (min-width: 700px) {
   .adviceCard {
     max-width: 41.875rem;
+    min-width: 37.5rem;
   }
 
   .adviceTitle {
