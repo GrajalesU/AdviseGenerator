@@ -5,7 +5,9 @@ import Advice from './components/Advice';
 function App() {
   return (
     <div className="App">
-      <Advice />
+      <div className="container">
+        <Advice />
+      </div>
     </div>
   );
 }
