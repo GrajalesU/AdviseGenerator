@@ -12,7 +12,7 @@ body {
 :root {
   --light-cyan: hsl(193, 38%, 86%);
   --neon-green: hsl(150, 100%, 66%);
-  --neon-light-green : hsl(150, 100%, 76%);
+  --neon-light-green: hsl(150, 100%, 76%);
 
   --grayish-blue: hsl(217, 19%, 38%);
   --dark-grayish-blue: hsl(217, 19%, 24%);

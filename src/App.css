@@ -1,9 +1,9 @@
-.App{
+.App {
   background-color: var(--dark-blue);
   height: 100vh;
 }
 
-.container{
+.container {
   display: flex;
   align-items: center;
   justify-content: center;
